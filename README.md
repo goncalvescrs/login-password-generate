@@ -1,0 +1,1 @@
+Área de login com gerador de senha segura.
